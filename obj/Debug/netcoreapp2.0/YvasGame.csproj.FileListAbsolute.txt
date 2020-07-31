@@ -1,0 +1,11 @@
+/home/sravan/Documents/esige/C#/YvasGame/bin/Debug/netcoreapp2.0/YvasGame.deps.json
+/home/sravan/Documents/esige/C#/YvasGame/bin/Debug/netcoreapp2.0/YvasGame.runtimeconfig.json
+/home/sravan/Documents/esige/C#/YvasGame/bin/Debug/netcoreapp2.0/YvasGame.runtimeconfig.dev.json
+/home/sravan/Documents/esige/C#/YvasGame/bin/Debug/netcoreapp2.0/YvasGame.dll
+/home/sravan/Documents/esige/C#/YvasGame/bin/Debug/netcoreapp2.0/YvasGame.pdb
+/home/sravan/Documents/esige/C#/YvasGame/obj/Debug/netcoreapp2.0/YvasGame.csprojAssemblyReference.cache
+/home/sravan/Documents/esige/C#/YvasGame/obj/Debug/netcoreapp2.0/YvasGame.csproj.CoreCompileInputs.cache
+/home/sravan/Documents/esige/C#/YvasGame/obj/Debug/netcoreapp2.0/YvasGame.AssemblyInfoInputs.cache
+/home/sravan/Documents/esige/C#/YvasGame/obj/Debug/netcoreapp2.0/YvasGame.AssemblyInfo.cs
+/home/sravan/Documents/esige/C#/YvasGame/obj/Debug/netcoreapp2.0/YvasGame.dll
+/home/sravan/Documents/esige/C#/YvasGame/obj/Debug/netcoreapp2.0/YvasGame.pdb
